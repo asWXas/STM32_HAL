@@ -1,0 +1,5 @@
+../eMP/mpu6050.c:43:12:run_self_test	3
+../eMP/mpu6050.c:67:23:inv_row_2_scale	7
+../eMP/mpu6050.c:87:23:inv_orientation_matrix_to_scalar	1
+../eMP/mpu6050.c:106:5:MPU6050_DMP_Init	10
+../eMP/mpu6050.c:158:5:MPU6050_DMP_Get_Data	3
